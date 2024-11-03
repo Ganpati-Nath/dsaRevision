@@ -27,5 +27,29 @@ int main(){
     //error...
     // int drr[2] = {1, 2, 4, 5};
 
+    //indexing of an array...
+    // int arr[5] = {1, 2, 3, 4, 5};
+    // cout << arr[0] << endl;
+    // cout << arr[1] << endl;
+    // cout << arr[2] << endl;
+    // cout << arr[3] << endl;
+    // cout << arr[4] << endl;
+
+    //taking input in an array...
+    // int arr[5];
+    // int sizeOf_arr = 5;
+
+    // for(int index = 0; index < sizeOf_arr; ++index){
+        //accessing...
+    //     cin >> arr[index];
+    // }
+
+    //printing an array;
+    // for(int index = 0; index < sizeOf_arr; ++index){
+        //printing...
+        // cout << arr[index] << " ";
+    // }
+
+
     return 0;
 }
